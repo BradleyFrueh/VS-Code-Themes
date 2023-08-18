@@ -15,5 +15,10 @@
         "path": "./navy-pier-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BradleyFrueh/VS-Code-Themes.git"
+  },
+  "license": "MIT"
 }
