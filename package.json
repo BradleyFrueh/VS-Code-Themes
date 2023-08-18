@@ -1,0 +1,19 @@
+{
+  "name": "navy-pier-color-theme",
+  "displayName": "navy-pier",
+  "description": "A custom theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Navy Pier",
+        "uiTheme": "vs-dark",
+        "path": "./navy-pier-theme.json"
+      }
+    ]
+  }
+}
