@@ -7,7 +7,6 @@
         "editorCursor.foreground": "#ff0bfff7",
         "settings.headerForeground": "#0dde5d",
         "settings.settingsHeaderHoverForeground": "#fa0d0d",
-        
        
         "editorGroupHeader.tabsBackground": "#2e3647d0",
         "tab.border": "#000000",
@@ -26,14 +25,12 @@
         "sideBarTitle.foreground": "#FFFFFF",
         "sideBarSectionHeader.foreground": "#FFFFFF",
   
-      
         "activityBar.background": "#182b66",
         "activityBar.inactiveForeground": "#0dde5d",
         "activityBar.foreground": "#00ff3c",
         "activityBar.inactiveBackground": "#CCCCCC",
         "activityBarBadge.background": "#0b33aa",
         "activityBarBadge.foreground": "#FFFFFF",
-  
   
         "statusBar.background": "#092989",
         "statusBar.foreground": "#FFFFFF",
@@ -55,11 +52,9 @@
         "menu.selectionBackground": "#0dde5d4a",
         "menu.selectionForeground": "#FFFFFF",
   
-  
         "list.hoverBackground": "#06a8ee5d",
         "list.activeSelectionBackground": "#0dde5d4a",
         "list.activeSelectionForeground": "#FFFFFF",
-  
   
         "breadcrumb.background": "#0d193b",
         "breadcrumb.foreground": "#FFFFFF",
