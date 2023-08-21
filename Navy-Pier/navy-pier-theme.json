@@ -96,6 +96,31 @@
         "terminal.ansiBrightCyan": "#00FFFF",
         "terminal.ansiBrightWhite": "#FFFFFF"
      },
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "sep": { "foreground": "#dddfe4" },
+    "keyword": { "foreground": "#4398f9" },
+    "sec-keyword": { "foreground": "#92c3fc", "bold": true },
+    "proc-name": { "foreground": "#92c3fc", "bold": true },
+    "comment": { "foreground": "#97c03f" },
+    "macro-keyword": { "foreground": "#4398f9" },
+    "macro-comment": { "foreground": "#97c03f" },
+    "macro-ref": { "foreground": "#dddfe4", "bold": true },
+    "macro-sec-keyword": { "foreground": "#dddfe4", "bold": true },
+    "cards-data": { "foreground": "#faaa6b" },
+    "string": { "foreground": "#f17e70" },
+    "date": { "foreground": "#54b6a4", "bold": true },
+    "time": { "foreground": "#54b6a4", "bold": true },
+    "dt": { "foreground": "#54b6a4", "bold": true },
+    "bitmask": { "foreground": "#54b6a4", "bold": true },
+    "namelit": { "foreground": "#f17e70", "bold": true },
+    "hex": { "foreground": "#54b6a4", "bold": true },
+    "numeric": { "foreground": "#54b6a4", "bold": true },
+    "format": { "foreground": "#54b6a4" },
+    "error": { "foreground": "#ff4d4d" },
+    "warning": { "foreground": "#ffb829" },
+    "note": { "foreground": "#2fa8fe" }
+  },
      "tokenColors": [
       {
         "name": "Comment",
