@@ -2,7 +2,7 @@
   "name": "navy-pier-color-theme",
   "displayName": "navy-pier",
   "description": "A custom theme for VS Code",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.55.0"
   },
